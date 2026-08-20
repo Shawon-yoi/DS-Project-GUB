@@ -1,2 +1,1 @@
-# DS-Project-GUB
-252 DS lab project files to show
+# Mastermind Game\n\nA C programming project implementing Bulls and Cows using a Stack for attempt history and Linear Search for code evaluation.\n
